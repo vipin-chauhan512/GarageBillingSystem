@@ -57,10 +57,9 @@ Before running the project, make sure you have:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/GarageBillingSystem.git
+git clone https://github.com/vipin-chauhan512/GarageBillingSystem.git
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Open the project
 
@@ -84,7 +83,7 @@ Update `DbConfig.java` with your MySQL connection details.
 Example:
 
 ```java
-String url = "jdbc:mysql://localhost:3306/garage_billing";
+String url = "jdbc:mysql://localhost:3306/garage";
 String username = "root";
 String password = "YOUR_MYSQL_PASSWORD";
 ```
